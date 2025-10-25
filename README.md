@@ -17,10 +17,6 @@ Building AI platforms at [Sulta Tech](https://sultatech.com)
 **AI Tools:** LangChain, OpenAI API, Pinecone, FastAPI  
 **Other:** Docker, Postgres, Vercel 
 
----
-
-###  GitHub Stats
-![Lesedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesedi-coder07&show_icons=true&theme=radical)
 
 ---
 
