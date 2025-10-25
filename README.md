@@ -1,4 +1,34 @@
-## Hi there 👋
+# Hi, I'm David
+Entrepreneur & Developer   
+Building AI platforms at [Sulta Tech](https://sultatech.com)
+
+---
+
+###  What I'm Working On
+-  **Sulta AI** – Agentic AI platform for businesses  
+-  **Aether** – Fast AI Router for modern AI agents  
+-  **NTP-Minus** – Open-source text editor for writers  
+
+---
+
+### Tech Stack
+**Languages:** TypeScript, Python, C  
+**Frameworks:** Next.js, Node.js, Flask  
+**AI Tools:** LangChain, OpenAI API, Pinecone, FastAPI  
+**Other:** Docker, Postgres, Vercel 
+
+---
+
+###  GitHub Stats
+![Lesedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lesedi-coder07&show_icons=true&theme=radical)
+
+---
+
+### 🌍 Connect
+- [Website](https://david.sultatech.com)
+- [💼 Email](mailto:lesedideveloper@gmail.com)
+
+
 
 <!--
 **Lesedi-coder07/Lesedi-coder07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
