@@ -1,6 +1,6 @@
 # Hi, I'm David
 Entrepreneur & Developer   
-Building AI platforms at [Sulta Tech](https://sultatech.com)
+Building AI tools at [Sulta Tech](https://sultatech.com)
 
 ---
 
