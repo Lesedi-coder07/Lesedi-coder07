@@ -21,7 +21,7 @@ Building AI tools at [Sulta Tech](https://sultatech.com)
 ---
 
 ### 🌍 Connect
-- [Website](https://david.sultatech.com)
+- [Website](https://dave.sultatech.com)
 - [💼 Email](mailto:lesedideveloper@gmail.com)
 
 
