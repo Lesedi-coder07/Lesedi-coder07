@@ -6,7 +6,8 @@ Building AI tools at [Sulta Tech](https://sultatech.com)
 
 ###  What I'm Working On
 -  **Sulta AI** – Agentic AI platform for businesses  
--  **Emet** – Fast AI Router for modern AI agents  
+-  **Emet** – Fast AI Router for modern AI agents
+-  **Insight** - AI Data Analysis Engine (With Agentic/Tooling Abilities) 
 -  **NTP-Minus** – Open-source text editor for writers  
 
 ---
